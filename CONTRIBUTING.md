@@ -10,11 +10,11 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 ### Reporting Bugs
 
-If you find a bug in Websico, please [open an issue](https://github.com/mrsajadpp/websico/issues) and provide as much detail as possible, including steps to reproduce the bug.
+If you find a bug in Websico, please [open an issue](https://github.com/mrsajadpp/crypash/issues) and provide as much detail as possible, including steps to reproduce the bug.
 
 ### Suggesting Enhancements
 
-Have an idea to improve Websico? Feel free to [open an issue](https://github.com/mrsajadpp/websico/issues) and describe your enhancement. Discussions on new features are highly encouraged.
+Have an idea to improve Websico? Feel free to [open an issue](https://github.com/mrsajadpp/crypash/issues) and describe your enhancement. Discussions on new features are highly encouraged.
 
 ### Pull Requests
 
@@ -36,8 +36,8 @@ Please ensure your pull request adheres to the following guidelines:
 
 To set up Websico for local development:
 
-1. Clone your fork: `git clone https://github.com/your-username/websico.git`
-2. Navigate to the project directory: `cd websico`
+1. Clone your fork: `git clone https://github.com/mrsajadpp/crypash.git`
+2. Navigate to the project directory: `cd crypash`
 3. Install dependencies: `npm install`
 4. Make your changes and test them locally.
 
